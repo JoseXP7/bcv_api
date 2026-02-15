@@ -4,7 +4,6 @@ API RESTful que obtiene las tasas de cambio oficiales del **Banco Central de Ven
 
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D14.0.0-brightgreen)](https://nodejs.org/)
 [![Express Version](https://img.shields.io/badge/express-4.18.x-blue)](https://expressjs.com/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## 📋 Tabla de Contenidos
 
