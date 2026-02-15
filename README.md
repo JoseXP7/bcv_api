@@ -1,4 +1,3 @@
-````markdown
 # 📊 BCV Exchange Rate API
 
 API RESTful que obtiene las tasas de cambio oficiales del **Banco Central de Venezuela (BCV)** mediante web scraping. Proporciona acceso fácil y estructurado al tipo de cambio del dólar (USD), euro (EUR), yuan (CNY), lira turca (TRY) y rublo ruso (RUB).
@@ -48,40 +47,40 @@ API RESTful que obtiene las tasas de cambio oficiales del **Banco Central de Ven
 ## 📦 Instalación
 
 1. **Clonar el repositorio**
-   ```bash
-   git clone https://github.com/tuusuario/bcv-exchange-rate-api.git
-   cd bcv-exchange-rate-api
-   ```
-````
+
+```bash
+git clone https://github.com/JoseXP7/bcv_api.git
+cd bcv_api
+```
 
 2. **Instalar dependencias**
 
-   ```bash
-   npm install
-   ```
+```bash
+npm install
+```
 
 3. **Configurar variables de entorno** (opcional)
 
-   ```bash
-   cp .env.example .env
-   # Editar .env con tu configuración
-   ```
+```bash
+cp .env.example .env
+# Editar .env con tu configuración
+```
 
 4. **Iniciar el servidor**
 
-   Para desarrollo (con reinicio automático):
+Para desarrollo (con reinicio automático):
 
-   ```bash
-   npm run dev
-   ```
+```bash
+npm run dev
+```
 
-   Para producción:
+Para producción:
 
-   ```bash
-   npm start
-   ```
+```bash
+npm start
+```
 
-   El servidor iniciará en `http://localhost:3000` (o el puerto configurado).
+El servidor iniciará en `http://localhost:3000` (o el puerto configurado).
 
 ## ⚙️ Configuración
 
@@ -275,15 +274,11 @@ Si encuentras algún error o la estructura del sitio del BCV cambia, por favor a
 - Respuesta de error
 - Fecha y hora del incidente
 
-## 📝 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
-
 ## 📧 Contacto
 
-Tu Nombre - [@tutwitter](https://twitter.com/tutwitter) - email@ejemplo.com
+José Graterol - [@codefrontend87](https://twitter.com/codefrontend87) - josemanuelgraterolrodriguez@gmail.com
 
-Link del proyecto: [https://github.com/tuusuario/bcv-exchange-rate-api](https://github.com/tuusuario/bcv-exchange-rate-api)
+Link del proyecto: [https://github.com/JoseXP7/bcv_api](https://github.com/JoseXP7/bcv_api)
 
 ## 🙏 Agradecimientos
 
@@ -300,8 +295,4 @@ Link del proyecto: [https://github.com/tuusuario/bcv-exchange-rate-api](https://
 
 ---
 
-⌨️ con ❤️ por [Tu Nombre]
-
-```
-
-```
+⌨️ con ❤️ por JoseXP7
