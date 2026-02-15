@@ -89,8 +89,6 @@ Crea un archivo `.env` en la raíz del proyecto:
 ```env
 PORT=3000
 NODE_ENV=development
-BCV_URL=https://www.bcv.org.ve/
-REQUEST_TIMEOUT=15000
 ```
 
 ## 🚀 Uso
