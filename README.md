@@ -18,7 +18,6 @@ API RESTful que obtiene las tasas de cambio oficiales del **Banco Central de Ven
 - [Estructura del Proyecto](#-estructura-del-proyecto)
 - [Manejo de Errores](#-manejo-de-errores)
 - [Contribuir](#-contribuir)
-- [Licencia](#-licencia)
 - [Contacto](#-contacto)
 
 ## ✨ Características
